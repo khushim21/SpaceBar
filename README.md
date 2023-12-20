@@ -1,6 +1,6 @@
 # __SpaceBar__
 
-SpaceBar started out as an individual programming project built during a data engineering programme I attended. The idea is: you arrive at the (fake)) SpaceBar restaurant, on your table there is a tablet device through which you order rounds of drinks and eventually receive your receipt.
+The idea is: you arrive at the (fake)) SpaceBar restaurant, on your table there is a tablet device through which you order rounds of drinks and eventually receive your receipt.
 
 ## __Running the app__
 
